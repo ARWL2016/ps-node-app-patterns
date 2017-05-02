@@ -1,0 +1,16 @@
+{
+  "name": "node-app-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:watch": "esw *.js --watch" 
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "eslint": "^3.19.0"
+  }
+}
